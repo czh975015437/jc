@@ -21,3 +21,5 @@ int mian(int a,char c)
 
 **粗体字**
 *斜体字*
+<br>
+~~删除~~
